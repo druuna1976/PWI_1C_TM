@@ -1,0 +1,23 @@
+IP : Numero logico y jerarquico que identifica a un equipo
+en una red.
+
+DNS : Sistema de nombre de dominios
+    Enlazar un nombre con una direccion IP
+
+URL : http + dns
+
+NUBE : Un servidor de otra persona. Amazon, 000webhost
+
+Registrar un DNS. francodileo.com.ar  
+nic.ar 
+AFIP -> Clave fisical 3 
+
+dominio .com 
+
+Servidores gratuitos : 000webhost 
+COMPRAR ESPACIO EN UN SERVIDOR. 
+DonWeb
+GoDaddy
+AWS (amazon web service)
+
+https://github.com/dileofrancoj/PWI_1C_TM/
